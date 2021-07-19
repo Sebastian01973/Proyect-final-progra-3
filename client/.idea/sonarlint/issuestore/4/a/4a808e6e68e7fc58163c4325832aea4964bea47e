@@ -1,0 +1,9 @@
+
+B
+java:S1128",Remove this unused import 'views.ILanguage'.(¬¯
+j
+java:S1450"TRemove the "image" field and declare it as a local variable in the relevant methods.(³à¼ø
+j
+java:S1450"TRemove the "price" field and declare it as a local variable in the relevant methods.(³à¼ø
+9
+java:S1659"#Declare "price" on a separate line.(³à¼ø

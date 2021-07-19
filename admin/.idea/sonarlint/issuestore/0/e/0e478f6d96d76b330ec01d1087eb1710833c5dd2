@@ -1,0 +1,13 @@
+
+m
+java:S1450"XRemove the "gridModel" field and declare it as a local variable in the relevant methods.(ÀÓØx
+t
+java:S1450"^Remove the "jContainerLogin" field and declare it as a local variable in the relevant methods.(£öòø
+?
+java:S1659"$Declare "prices" on a separate line.(‡ï›¯ùÿÿÿÿ
+@
+java:S1948"+Make "gridModel" transient or serializable.(ÀÓØx
+g
+java:S3252 "LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(¤à‹Žûÿÿÿÿ
+<
+java:S1168}"&Return an empty array instead of null.(¥¹ï

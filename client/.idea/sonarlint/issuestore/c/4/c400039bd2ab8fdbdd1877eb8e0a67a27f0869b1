@@ -1,0 +1,13 @@
+
+—
+java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿ´òÈ
+@
+java:S1948"+Make "gridModel" transient or serializable.(ÀÓØx
+E
+java:S1948"/Make "mouseListener" transient or serializable.(Á©Ë«
+L
+java:S2387"6"mouseListener" is the name of a field in "Component".(Á©Ë«
+g
+java:S3252"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(¤à‹Žûÿÿÿÿ
+5
+java:S16594"Declare "k" on a separate line.(¥¥šÇ

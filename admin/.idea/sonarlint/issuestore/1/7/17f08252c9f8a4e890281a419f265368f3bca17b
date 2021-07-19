@@ -1,0 +1,15 @@
+
+
+java:S1186Ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ø¡ı¥ûÿÿÿÿ
+E
+java:S1948+"*Make "document" transient or serializable.(£Şİñüÿÿÿÿ
+V	java:S125="<This block of commented-out lines of code should be removed.(¿»ËŸÿÿÿÿÿ
+Q	java:S125?"<This block of commented-out lines of code should be removed.(Ş„ÓÍ
+W
+java:S3252@"BUse static access with "javax.swing.SwingConstants" for "LEADING".(­÷E
+_
+java:S3358]"DExtract this nested ternary operation into an independent statement.(ÄİÀøûÿÿÿÿ
+^
+java:S1126¹"BReplace this if-then-else statement by a single method invocation.(Â­ˆ£ıÿÿÿÿ
+X
+java:S1126¾"BReplace this if-then-else statement by a single method invocation.(ğ«ï?

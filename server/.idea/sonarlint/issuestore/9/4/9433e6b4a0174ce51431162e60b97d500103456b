@@ -1,0 +1,30 @@
+
+c
+java:S1192z"HDefine a constant instead of duplicating this literal "images/" 3 times.(ã„­·ýÿÿÿÿ
+Y
+java:S2259Î"BA "NullPointerException" could be thrown; "root" is nullable here.(„Í·Ë
+Y
+java:S2259Ý"BA "NullPointerException" could be thrown; "root" is nullable here.(„Í·Ë
+t
+java:S2142-"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+V	java:S1252"<This block of commented-out lines of code should be removed.(º¤ ÿÿÿÿÿÿ
+Q	java:S125y"<This block of commented-out lines of code should be removed.(Œ³ÊÙ
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ýŒžúþÿÿÿÿ
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(ÇôØŒøÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(žñý¥þÿÿÿÿ
+T	java:S106®"9Replace this use of System.out or System.err by a logger.(½š½ÿÿÿÿÿ
+T	java:S106½"9Replace this use of System.out or System.err by a logger.(‘Äñøÿÿÿÿ
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(Âÿ€àùÿÿÿÿ
+N	java:S106Ü"9Replace this use of System.out or System.err by a logger.(¢ÜŒ
+
+T	java:S106ä"9Replace this use of System.out or System.err by a logger.(áÖË¥ùÿÿÿÿ
+O	java:S106ò"9Replace this use of System.out or System.err by a logger.(›ûŒº
+j
+java:S4042ø"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ã­È„øÿÿÿÿ
+V	java:S899ø";Do something with the "boolean" value returned by "delete".(ã­È„øÿÿÿÿ
+O	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(ò”ˆ†
+O	java:S106–"9Replace this use of System.out or System.err by a logger.(Ä¦æ—
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(é§¼Õüÿÿÿÿ
+O	java:S106®"9Replace this use of System.out or System.err by a logger.(«â©¿
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(ÎÙçÆûÿÿÿÿ
+O	java:S106ù"9Replace this use of System.out or System.err by a logger.(÷ùÊÂ

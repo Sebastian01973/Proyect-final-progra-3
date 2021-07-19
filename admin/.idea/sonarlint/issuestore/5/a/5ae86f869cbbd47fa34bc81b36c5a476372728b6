@@ -1,0 +1,14 @@
+
+h
+java:S2095O"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(Ò©Ä
+g
+java:S2095u"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(Ù–šı
+V	java:S125"<This block of commented-out lines of code should be removed.(èøÊ€ÿÿÿÿÿ
+N
+java:S1854b"8Remove this useless assignment to local variable "name".(™ûñ›
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(Õ§îşÿÿÿÿ
+e
+java:S2674y"JCheck the return value of the "read" call to see how many bytes were read.(Ÿú‡¢ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚Ã»
+?
+java:S1481b")Remove this unused "name" local variable.(™ûñ›

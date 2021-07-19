@@ -1,0 +1,17 @@
+
+A
+java:S1948"&Make "icon" transient or serializable.(Í¨Œ¿øÿÿÿÿ
+Z
+java:S1117"8Rename "icon" which hides the field declared at line 14.(±Ñáıÿÿÿÿ8½Ê‹‹/
+S
+java:S1172F"1Remove this unused method parameter "jTextField".(–¨ã†ıÿÿÿÿ8‹ŒÎ‡’/
+
+java:S1186S"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²Æ»•8‹ŒÎ‡’/
+£
+java:S1186W"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­­¢ùÿÿÿÿ8‹ŒÎ‡’/
+N
+java:S1172\"1Remove this unused method parameter "jTextField".(¦ƒâˆ8‹ŒÎ‡’/
+
+java:S1186i"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²Æ»•8‹ŒÎ‡’/
+£
+java:S1186m"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­­¢ùÿÿÿÿ8‹ŒÎ‡’/

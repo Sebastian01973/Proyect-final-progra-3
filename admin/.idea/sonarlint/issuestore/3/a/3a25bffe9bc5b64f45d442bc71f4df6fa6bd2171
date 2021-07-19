@@ -1,0 +1,9 @@
+
+o
+java:S1450"YRemove the "gridLayout" field and declare it as a local variable in the relevant methods.(«ÛØ¤
+t
+java:S1450"YRemove the "jContainer" field and declare it as a local variable in the relevant methods.(¾ºÂÐûÿÿÿÿ
+<
+java:S1659"&Declare "jBCancel" on a separate line.(…•³
+g
+java:S3252"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(¤à‹Žûÿÿÿÿ

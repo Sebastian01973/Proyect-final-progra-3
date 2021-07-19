@@ -1,0 +1,11 @@
+
+[	java:S1078"AConstructor has 8 parameters, which is greater than 7 authorized.(™íå÷úÿÿÿÿ
+\	java:S107œ"AConstructor has 8 parameters, which is greater than 7 authorized.(…¸·Êúÿÿÿÿ
+f	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¼‹ª
+M
+java:S1128"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘
+V	java:S125;"<This block of commented-out lines of code should be removed.(ýÂ¤ ýÿÿÿÿ
+Q
+java:S1161Ã":Add the "@Override" annotation above this method signature(ÈÊ“À
+V
+java:S1161Ð":Add the "@Override" annotation above this method signature(ŠÎ”ßûÿÿÿÿ

@@ -1,0 +1,9 @@
+
+K
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èýÿÿÿÿ
+p
+java:S1450"ZRemove the "jScrollPane" field and declare it as a local variable in the relevant methods.(õÀŠ†
+K
+java:S1172""5Remove this unused method parameter "actionListener".(ëµ»ã
+V	java:S125P"<This block of commented-out lines of code should be removed.(¸·˜¸øÿÿÿÿ
+V	java:S125y"<This block of commented-out lines of code should be removed.(¸·˜¸øÿÿÿÿ

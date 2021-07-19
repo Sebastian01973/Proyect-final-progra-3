@@ -1,0 +1,22 @@
+
+m
+java:S2095%"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(©éôúûÿÿÿÿ
+@
+java:S5411H"*Use the primitive boolean expression here.(‡î·À
+@
+java:S5411t"*Use the primitive boolean expression here.(‡î·À
+a
+java:S1226!"FIntroduce a new variable instead of reusing the parameter "nameImage".(¾»™Îüÿÿÿÿ
+M
+java:S2589t"7Remove this expression which always evaluates to "true"(‡î·À
+M
+java:S2589H"7Remove this expression which always evaluates to "true"(‡î·À
+]	java:S125"<This block of commented-out lines of code should be removed.(èøÊ€ÿÿÿÿÿ8Ê’Œ˜/
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ØØ°Ýüÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ãÝáâøÿÿÿÿ
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(×³¨™
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(ãÝáâøÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "name".(™ûñ›
+?
+java:S1481")Remove this unused "name" local variable.(™ûñ›
